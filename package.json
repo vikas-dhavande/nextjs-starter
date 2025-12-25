@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@once-ui-system/core": "latest",
+    "appwrite": "^21.5.0",
     "classnames": "^2.5.1",
     "next": "16.0.9",
     "react": "19.0.0",
